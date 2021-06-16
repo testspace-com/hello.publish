@@ -24,7 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Testspace client install & config
-      - uses: testspace-com/setup-testspace@v1
+        uses: testspace-com/setup-testspace@v1
         with:
           domain: ${{github.repository_owner}}
       - name: Testspace push test content
@@ -35,7 +35,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Testspace client install & config
-      - uses: testspace-com/setup-testspace@v1
+        uses: testspace-com/setup-testspace@v1
         with:
           domain: ${{github.repository_owner}}
       - name: Testspace push test content
