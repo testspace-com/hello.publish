@@ -5,7 +5,7 @@ This repo demostrates using `jobs`, `matrix`, and executing `multiple workflows`
 
 The Test Results are [here](http://testspace-com.testspace.com/projects/testspace-com:hello.publish/spaces/multiple-workflows). 
 
-Also can checkout the [LIVE DASHBOARD](https://demo.testspace.com). 
+Also checkout the [LIVE DASHBOARD](https://demo.testspace.com). 
 
 
 ## Usage
