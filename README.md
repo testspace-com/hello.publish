@@ -28,4 +28,4 @@ The Testspace client action requires a `domain` and optionally a token for publi
 * [Testspace domain](https://help.testspace.com/docs/dashboard/admin-signup) is the **organizational** name (*subdomain*) used when creating the account along with *.testspace.com*. The *.testspace.com* string is optional. 
 * [Testspace access token](https://help.testspace.com/docs/dashboard/admin-user#account) is required when using a `private` repo. 
 
-More details of this sample can be found in the Testspace [Help Tutorial](https://help.testspace.com/docs/tutorial/setup) section.
+More details of this sample can be found in the Testspace [Help Tutorial](https://help.testspace.com/tutorial/setup) section.
