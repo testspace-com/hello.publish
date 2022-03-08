@@ -25,7 +25,7 @@ Publish test results, code coverage, and other artifacts with one command. Seaml
 #### Input
 The Testspace client action requires a `domain` and optionally a token for publishing test results.
 
-* [Testspace domain](https://help.testspace.com/docs/dashboard/admin-signup) is the **organizational** name (*subdomain*) used when creating the account along with *.testspace.com*. The *.testspace.com* string is optional. 
-* [Testspace access token](https://help.testspace.com/docs/dashboard/admin-user#account) is required when using a `private` repo. 
+* [Testspace domain](https://help.testspace.com/dashboard/admin-signup#github) is the **organizational** name (*subdomain*) used when creating the account along with *.testspace.com*. The *.testspace.com* string is optional. 
+* [Testspace access token](https://help.testspace.com/dashboard/admin-user#account) is required when using a `private` repo. 
 
 More details of this sample can be found in the Testspace [Help Tutorial](https://help.testspace.com/tutorial/setup) section.
