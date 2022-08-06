@@ -1,13 +1,7 @@
 name: Jobs
 on: 
   push:
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
-  pull_request:
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
+  
 jobs:
   this-job:
     runs-on: ubuntu-latest

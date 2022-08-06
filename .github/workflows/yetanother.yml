@@ -1,13 +1,7 @@
 name: Yet Another
 on: 
   push:
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
-  pull_request:
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
+    
 jobs:
   one-more:
     runs-on: ubuntu-latest
