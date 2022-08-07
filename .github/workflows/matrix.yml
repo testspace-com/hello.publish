@@ -1,13 +1,7 @@
 name: Matrix
 on: 
   push:
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
-  pull_request:
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
+   
 jobs:
   test:
     runs-on: ${{ matrix.os }}
